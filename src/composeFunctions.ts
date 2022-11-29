@@ -69,5 +69,4 @@ namespace Failing {
 }
 
 const addThree = composeFunctions(addOne, addOne, addOne);
-
 console.log(addThree(0));
